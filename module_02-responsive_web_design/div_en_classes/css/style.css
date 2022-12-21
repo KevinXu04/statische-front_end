@@ -1,0 +1,29 @@
+body {
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+h1 {
+    color: blue;
+}
+
+.first {
+    color: black;
+    background-color: aquamarine;
+    font-weight: bold;
+    padding: 10px 15px;
+
+}
+
+.h2Red {
+    color: red;    
+}
+
+.h2Green {
+    color: green;
+}
+
+.second {
+    color: black;
+    background-color: goldenrod;
+}
